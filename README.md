@@ -1,8 +1,10 @@
 <h1 align="center">
-
-<img src="https://pa1.aminoapps.com/6688/f49646ef163cf2d9a761ad9e243c6b18e2bd2899_00.gif">
-  
   Design de personagem: concept de animais e criaturas 
+
+  ###
+
+![image](https://github.com/AndreCoutinhom/animals_and_creatures_concept_design/assets/91290799/1fecc6cc-d2b9-4b93-a92d-c204b04883a7)
+  
 
 </h1>
 
