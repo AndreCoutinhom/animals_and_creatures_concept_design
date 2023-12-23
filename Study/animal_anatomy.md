@@ -23,3 +23,16 @@ Como vimos no vídeo passado, a maior parte dos animais vertebrados compartilha 
 * A seguinte figura mostra maneiras de se esboçar animais humanos, primatas primitivos, animais com casco e animais com patas respectivamente:
 
 ![image](https://github.com/AndreCoutinhom/animals_and_creatures_concept_design/assets/91290799/461d2dee-6a8e-46d8-80f1-d5cfc7564505)
+
+## Invertebrados
+
+![image](https://github.com/AndreCoutinhom/animals_and_creatures_concept_design/assets/91290799/5eaabc3d-3046-464d-85de-257688984e90)
+
+Os invertebrados são mais simples e intuitivos de desenhar porque vamos nos pautar muito mais nas formas deles do que na anatomia de fato. Nesse desenho acima, do Oxboxer, podemos ver que a estrutura desse polvo é muito mais solta do que a que usamos com vertebrados, apesar de ainda ser bastante complexa.
+
+Como não temos estruturas esqueléticas para nos guiar, vamos tentar criar formas e volumes que resumam o formato deles e apenas depois vamos adicionar detalhes nelas. Essa estrutura do polvo, por exemplo, pode começar sendo quebrada em cilindros para os tentáculos e uma forma de feijão para o corpo.
+
+![image](https://github.com/AndreCoutinhom/animals_and_creatures_concept_design/assets/91290799/b87ab4d7-0199-42a8-9501-521f7b3bba55)
+
+Essa estrutura do feijão é muito útil para nós e pode ser usada em diversos animais, desde insetos até cobras, leões marinhos e fuinhas (que não são invertebrados, mas têm uma forma esquisita).
+
