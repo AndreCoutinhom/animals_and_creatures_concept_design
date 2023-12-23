@@ -9,4 +9,4 @@
 ### Estrutura óssea
 
 * Ossos sustentam a estrutura do corpo.
-* Estrutura óssea detalhada [aqui](/ossos)
+* Estruturas ósseas detalhadas [aqui](/ossos)
