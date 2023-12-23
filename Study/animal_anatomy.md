@@ -19,3 +19,7 @@ Nossos parentes vivos mais próximos não são nem da ramificação dos humanos,
 ![image](https://github.com/AndreCoutinhom/animals_and_creatures_concept_design/assets/91290799/4e14876f-3768-4ea8-a823-9ce816042efd)
 
 Como vimos no vídeo passado, a maior parte dos animais vertebrados compartilha uma estrutura óssea muito parecida com a nossa. Isso acontece por conta dessas ramificações evolutivas. Lá atrás, há mais de 350 milhões de anos, existiu uma espécie que deu origem aos sapos, aos crocodilos, pássaros, elefantes, cachorros, humanos e muitas outras espécies.
+
+* A seguinte figura mostra maneiras de se esboçar animais humanos, primatas primitivos, animais com casco e animais com patas respectivamente:
+
+![image](https://github.com/AndreCoutinhom/animals_and_creatures_concept_design/assets/91290799/461d2dee-6a8e-46d8-80f1-d5cfc7564505)
