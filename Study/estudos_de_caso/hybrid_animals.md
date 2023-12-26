@@ -8,3 +8,14 @@
 ![image](https://github.com/AndreCoutinhom/animals_and_creatures_concept_design/assets/91290799/6775a41e-5344-447c-ab67-4278179571bb)
 
 ---
+
+## Material de apoio:
+
+![image](https://github.com/AndreCoutinhom/animals_and_creatures_concept_design/assets/91290799/cf7114ab-27ec-4918-aa7c-6301eb9038b1)
+
+* [Pirulla: REFIZ UM HIPOPÓTAMO COM BASE NO ESQUELETO](https://youtu.be/8TPPFcZpCbA)
+* [Pirulla: QUE ANIMAL É ESSE? (REMONTANDO A PARTIR DO CRÂNIO)](https://youtu.be/N9nTn00GMtg)
+
+> Paulo Miranda Nascimento, conhecido como Pirula ou Pirulla, é um paleontólogo, zoólogo, youtuber, palestrante e divulgador científico brasileiro. Paulo Miranda Nascimento é formado em biologia pela Universidade Presbiteriana Mackenzie e mestre e doutor em zoologia pela Universidade de São Paulo (USP), onde defendeu a tese "Revisão da família Baurusuchidae e seu posicionamento filogenético dentro do clado Mesoeucrocodylia". Foi professor de evolução e paleontologia em faculdades e escolas.
+
+---
