@@ -46,7 +46,7 @@ As seguintes aptidões são colocadas em prática:
 
 ## [Ferramentas]()
   
-  <img align="right" alt="Death" height="390" width="350" src="https://static.wikia.nocookie.net/pussinbootsnetflix/images/1/16/112C4DD0-1A93-4E50-B401-D880FD4DA480.webp/revision/latest?cb=20231129225958">
+  <img align="right" alt="Death" height="360" width="350" src="https://static.wikia.nocookie.net/pussinbootsnetflix/images/1/16/112C4DD0-1A93-4E50-B401-D880FD4DA480.webp/revision/latest?cb=20231129225958">
 
 
 Fala-se na pasta sobre a ferramenta [Skelly](/Tools/skelly.md), que ajuda no desenvolvimento de ossos realistas.
@@ -64,11 +64,11 @@ Fora a ferramenta citada, seguem algumas ferramentas de desenvolvimento que pode
 
 ## Material de apoio
 
-* [Force!;](https://www.amazon.com.br/Force-Drawing-Locomotion-Concepts-Animators/dp/0240814355)
-* [Drawn to Life;](https://www.amazon.com.br/Drawn-Life-Golden-Disney-Classes/dp/0240811070/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=drawn+to+life&qid=1617845036&s=books&sr=1-2)
-* [Animal Anatomy for Artists: The Elements of Form;](https://www.amazon.com.br/Animal-Anatomy-Artists-Elements-Form/dp/0195142144/ref=sr_1_5?__mk_pt_BR=ÅMÅŽÕÑ&dchild=1&keywords=animal+anatomy+drawing&qid=1617845005&s=books&sr=1-5)
-* [The Art of Animal Drawing: Construction, Action Analysis, Caricature;](https://www.amazon.com.br/Art-Animal-Drawing-Construction-Caricature/dp/0486274268/ref=sr_1_16?__mk_pt_BR=ÅMÅŽÕÑ&dchild=1&keywords=animal+anatomy+drawing&qid=1617845005&s=books&sr=1-16)
-* [Pirulla: REFIZ UM HIPOPÓTAMO COM BASE NO ESQUELETO;](https://youtu.be/8TPPFcZpCbA)
-* [Pirulla: QUE ANIMAL É ESSE? (REMONTANDO A PARTIR DO CRÂNIO).](https://youtu.be/N9nTn00GMtg)
-
+* [Force!](https://www.amazon.com.br/Force-Drawing-Locomotion-Concepts-Animators/dp/0240814355)
+* [Drawn to Life](https://www.amazon.com.br/Drawn-Life-Golden-Disney-Classes/dp/0240811070/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=drawn+to+life&qid=1617845036&s=books&sr=1-2)
+* [Animal Anatomy for Artists: The Elements of Form](https://www.amazon.com.br/Animal-Anatomy-Artists-Elements-Form/dp/0195142144/ref=sr_1_5?__mk_pt_BR=ÅMÅŽÕÑ&dchild=1&keywords=animal+anatomy+drawing&qid=1617845005&s=books&sr=1-5)
+* [The Art of Animal Drawing: Construction, Action Analysis, Caricature](https://www.amazon.com.br/Art-Animal-Drawing-Construction-Caricature/dp/0486274268/ref=sr_1_16?__mk_pt_BR=ÅMÅŽÕÑ&dchild=1&keywords=animal+anatomy+drawing&qid=1617845005&s=books&sr=1-16)
+* [Pirulla: REFIZ UM HIPOPÓTAMO COM BASE NO ESQUELETO](https://youtu.be/8TPPFcZpCbA)
+* [Pirulla: QUE ANIMAL É ESSE? (REMONTANDO A PARTIR DO CRÂNIO)](https://youtu.be/N9nTn00GMtg)
+* [Animalogic](https://www.youtube.com/@animalogic)
 ---
